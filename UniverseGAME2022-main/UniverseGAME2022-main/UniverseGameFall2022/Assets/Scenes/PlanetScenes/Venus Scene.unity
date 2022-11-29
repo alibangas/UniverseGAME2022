@@ -414,7 +414,7 @@ MonoBehaviour:
     a year on a planet to pass faster than a day? Venus actually revolves around
     the sun faster than it makes a full rotation! Once you're ready, press the spacebar
     key to play the minigame."
-  textSpeed: 0.1
+  textSpeed: 0.03
 --- !u!114 &1050021940
 MonoBehaviour:
   m_ObjectHideFlags: 0

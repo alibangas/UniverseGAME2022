@@ -848,4 +848,4 @@ MonoBehaviour:
     solar system that doesn\u2019t have a moon. Also, one \u201Cday\u201D on Mercury
     is almost 60 days on earth because the planet rotates very slowly. Press the
     spacebar key once your ready to play the minigame!"
-  textSpeed: 0.1
+  textSpeed: 0.03

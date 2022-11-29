@@ -1165,7 +1165,7 @@ MonoBehaviour:
   - Hello Traveler! I am Emperor Jupiter and this is my companion Europa, we are
     here to help you explore and learn about the planets within our solar system.
     Click on a planet to gather more information on them!
-  textSpeed: 0.1
+  textSpeed: 0.03
 --- !u!114 &910508630
 MonoBehaviour:
   m_ObjectHideFlags: 0

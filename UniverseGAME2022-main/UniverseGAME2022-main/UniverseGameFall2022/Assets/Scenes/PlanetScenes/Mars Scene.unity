@@ -735,7 +735,7 @@ MonoBehaviour:
     It is also the second smallest planet in our solar system, being on half the
     size of Earth. Press the spacebar key on your keyboard once your ready to play
     the minigame!"
-  textSpeed: 0.1
+  textSpeed: 0.03
 --- !u!114 &1718800461
 MonoBehaviour:
   m_ObjectHideFlags: 0

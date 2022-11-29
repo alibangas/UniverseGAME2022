@@ -1167,7 +1167,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1552411172
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1438,7 +1438,7 @@ MonoBehaviour:
     You can move on to the next word. If not, keep trying to guess the word until
     you get it correct. If you\u2019re ready, go ahead and press the letter \u201CP\u201D
     on your keyboard to play the game. Good luck!"
-  textSpeed: 0.1
+  textSpeed: 0.03
 --- !u!114 &1718800461
 MonoBehaviour:
   m_ObjectHideFlags: 0

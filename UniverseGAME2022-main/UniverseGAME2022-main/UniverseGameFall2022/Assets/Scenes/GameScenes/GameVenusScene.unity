@@ -1023,7 +1023,7 @@ MonoBehaviour:
     can move on to the next word. If not, keep trying to guess the word until you
     get it correct. If you\u2019re ready, go ahead and press the letter \u201CP\u201D
     on your keyboard to play the game. Good luck!"
-  textSpeed: 0.1
+  textSpeed: 0.03
 --- !u!114 &1050021940
 MonoBehaviour:
   m_ObjectHideFlags: 0

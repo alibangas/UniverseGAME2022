@@ -255,7 +255,7 @@ MonoBehaviour:
     the most moons of any of the other planets, having around 80 moons in total some
     of which don\u2019t even have names. A fun fact about Jupiter is there is actually
     a solar storm occurring on the planet that hasn\u2019t ended in over 350 years!"
-  textSpeed: 0.1
+  textSpeed: 0.03
 --- !u!114 &838266796
 MonoBehaviour:
   m_ObjectHideFlags: 0

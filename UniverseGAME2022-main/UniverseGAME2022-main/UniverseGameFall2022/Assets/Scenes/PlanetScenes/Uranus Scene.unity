@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -322,7 +322,7 @@ MonoBehaviour:
     being farthest away from the sun, Uranus is the coldest planet. Some scientists
     speculate that this is because it was impacted long ago, which released heat
     from its core. "
-  textSpeed: 0.1
+  textSpeed: 0.03
 --- !u!114 &1092287710
 MonoBehaviour:
   m_ObjectHideFlags: 0

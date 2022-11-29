@@ -557,7 +557,7 @@ MonoBehaviour:
     it is so far the only planet known to hold life, besides me of course. The earth
     takes roughly 24 hours for every rotation and around 365 days for every revolution
     around the Sun. Press the spacebar key once your ready to play the minigame!"
-  textSpeed: 0.1
+  textSpeed: 0.03
 --- !u!114 &1469325016
 MonoBehaviour:
   m_ObjectHideFlags: 0
