@@ -66,7 +66,7 @@ public class NeptuneDialogue : MonoBehaviour
         }
         else
         {
-            gameObject.SetActive(false);
+            gameObject.SetActive(true);
         }
     }
 }

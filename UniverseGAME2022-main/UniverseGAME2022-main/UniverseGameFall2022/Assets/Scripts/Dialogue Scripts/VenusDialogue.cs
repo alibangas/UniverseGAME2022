@@ -5,7 +5,7 @@ using TMPro;
 using UnityEngine.SceneManagement;
 
 
-public class MercuryDialogue : MonoBehaviour
+public class VenusDialogue : MonoBehaviour
 {
     public TextMeshProUGUI textComponent;
     public string[] lines;
@@ -22,9 +22,9 @@ public class MercuryDialogue : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0))
         {
-            if(textComponent.text == lines[index])
+            if (textComponent.text == lines[index])
             {
                 NextLine();
             }
@@ -38,6 +38,11 @@ public class MercuryDialogue : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.Escape))
         {
             SceneManager.LoadScene("Solar System Unity Game");
+        }
+
+        else if (Input.GetKeyDown(KeyCode.Space))
+        {
+            SceneManager.LoadScene("GameVenusScene");
         }
     }
 
@@ -67,7 +72,7 @@ public class MercuryDialogue : MonoBehaviour
         }
         else
         {
-            gameObject.SetActive(false);
+            gameObject.SetActive(true);
         }
     }
 }

@@ -12,27 +12,39 @@ EditorBuildSettings:
     path: Assets/Scenes/Solar System Unity Game.unity
     guid: f9a105584c43c1742b17ca63decedb78
   - enabled: 1
-    path: Assets/Scenes/Mercury Scene.unity
+    path: Assets/Scenes/PlanetScenes/Mercury Scene.unity
     guid: 20b4c00065638d44e80b57172f9a6a33
   - enabled: 1
-    path: Assets/Scenes/Venus Scene.unity
+    path: Assets/Scenes/PlanetScenes/Venus Scene.unity
     guid: 8f0bc09fc2130d4468fa35202193e7bd
   - enabled: 1
-    path: Assets/Scenes/Earth Scene.unity
+    path: Assets/Scenes/PlanetScenes/Earth Scene.unity
     guid: c245418574d1a1241903722d28d807e0
   - enabled: 1
-    path: Assets/Scenes/Mars Scene.unity
+    path: Assets/Scenes/PlanetScenes/Mars Scene.unity
     guid: bbe671b4b32551f4a9cdeea582067437
   - enabled: 1
-    path: Assets/Scenes/Jupiter Scene.unity
+    path: Assets/Scenes/PlanetScenes/Jupiter Scene.unity
     guid: 017c0a746600a2640b9351c4e803a978
   - enabled: 1
-    path: Assets/Scenes/Saturn Scene.unity
+    path: Assets/Scenes/PlanetScenes/Saturn Scene.unity
     guid: b7e9434c5fef3c34cb6da78102b4f55b
   - enabled: 1
-    path: Assets/Scenes/Uranus Scene.unity
+    path: Assets/Scenes/PlanetScenes/Uranus Scene.unity
     guid: 305d1228ebc74404baf698a20a5da2e7
   - enabled: 1
-    path: Assets/Scenes/Neptune Scene.unity
+    path: Assets/Scenes/PlanetScenes/Neptune Scene.unity
     guid: ae66f269be20ecc43ba15fe7a4383e73
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/GameMercuryScene.unity
+    guid: 445b895c570ad415d8e7e1e13449a7b8
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/GameVenusScene.unity
+    guid: 466c0f012780d4626ba8b7a4c162c7a7
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/GameEarthScene.unity
+    guid: 092fd657514ac48648adc12d3f18fa13
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/GameMarsScene.unity
+    guid: 4d50810767b3546139d4776f678e7c23
   m_configObjects: {}

@@ -1031,14 +1031,14 @@ RectTransform:
   m_GameObject: {fileID: 807791800}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.6051829, y: 0.6051829, z: 0.6051829}
   m_Children: []
   m_Father: {fileID: 727722501}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -282.51953, y: -117.67969}
+  m_AnchoredPosition: {x: -559, y: -228}
   m_SizeDelta: {x: -1003.6534, y: -414.2715}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &807791802
@@ -1137,7 +1137,7 @@ RectTransform:
   m_GameObject: {fileID: 910508627}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.8470397, y: 0.8470397, z: 0.8470397}
   m_Children:
   - {fileID: 340560977}
   m_Father: {fileID: 727722501}
@@ -1145,7 +1145,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 102, y: -162.41}
+  m_AnchoredPosition: {x: 78, y: -222}
   m_SizeDelta: {x: -483.2971, y: -414.28}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &910508629
@@ -1165,7 +1165,7 @@ MonoBehaviour:
   - Hello Traveler! I am Emperor Jupiter and this is my companion Europa, we are
     here to help you explore and learn about the planets within our solar system.
     Click on a planet to gather more information on them!
-  textSpeed: 0.1
+  textSpeed: 0.03
 --- !u!114 &910508630
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1623,14 +1623,14 @@ RectTransform:
   m_GameObject: {fileID: 1254667797}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.79279, y: 0.79279, z: 0.79279}
   m_Children: []
   m_Father: {fileID: 727722501}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -420, y: -162.41}
+  m_AnchoredPosition: {x: -388, y: -228}
   m_SizeDelta: {x: -905.3875, y: -324.8213}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1254667799

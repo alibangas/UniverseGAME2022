@@ -5,7 +5,7 @@ using TMPro;
 using UnityEngine.SceneManagement;
 
 
-public class JupiterDialogue : MonoBehaviour
+public class SaturnDialogue : MonoBehaviour
 {
     public TextMeshProUGUI textComponent;
     public string[] lines;
@@ -34,7 +34,6 @@ public class JupiterDialogue : MonoBehaviour
                 textComponent.text = lines[index];
             }
         }
-
         else if (Input.GetKeyDown(KeyCode.Escape))
         {
             SceneManager.LoadScene("Solar System Unity Game");
@@ -67,7 +66,7 @@ public class JupiterDialogue : MonoBehaviour
         }
         else
         {
-            gameObject.SetActive(false);
+            gameObject.SetActive(true);
         }
     }
 }
