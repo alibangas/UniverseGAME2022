@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class ReadInputMercury : MonoBehaviour
+public class ReadInputEarth : MonoBehaviour
 {
     private string input;
     public GameObject greenCheckMark;
@@ -15,15 +16,18 @@ public class ReadInputMercury : MonoBehaviour
     }
 
     // Update is called once per frame
-    //void Update()
-    //{
-        
-    //}
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Solar System Unity Game");
+        }
+    }
 
     public void ReadStringInput(string str)
     {
         input = str.ToLower();
-        if (input == "sixty")
+        if (input == "third")
         {
             Debug.Log("Correct!");
             greenCheckMark.SetActive(true);
@@ -34,7 +38,6 @@ public class ReadInputMercury : MonoBehaviour
             redXMark.SetActive(true);
             greenCheckMark.SetActive(false);
         }
-        
-    }
 
+    }
 }
