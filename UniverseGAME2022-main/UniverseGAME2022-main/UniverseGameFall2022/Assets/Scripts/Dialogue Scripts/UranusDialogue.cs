@@ -5,7 +5,7 @@ using TMPro;
 using UnityEngine.SceneManagement;
 
 
-public class EarthDialogue : MonoBehaviour
+public class UranusDialogue : MonoBehaviour
 {
     public TextMeshProUGUI textComponent;
     public string[] lines;
@@ -34,7 +34,6 @@ public class EarthDialogue : MonoBehaviour
                 textComponent.text = lines[index];
             }
         }
-
         else if (Input.GetKeyDown(KeyCode.Escape))
         {
             SceneManager.LoadScene("Solar System Unity Game");
@@ -67,7 +66,7 @@ public class EarthDialogue : MonoBehaviour
         }
         else
         {
-            gameObject.SetActive(false);
+            gameObject.SetActive(true);
         }
     }
 }

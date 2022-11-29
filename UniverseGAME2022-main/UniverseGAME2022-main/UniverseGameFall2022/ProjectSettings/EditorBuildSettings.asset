@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Neptune Scene.unity
     guid: ae66f269be20ecc43ba15fe7a4383e73
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/GameMercuryScene.unity
+    guid: 445b895c570ad415d8e7e1e13449a7b8
   m_configObjects: {}

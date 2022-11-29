@@ -846,5 +846,6 @@ MonoBehaviour:
     planet within our solar system. Because of this it also orbits the sun faster
     than the rest. A fun fact is that it is actually only one of two planets in our
     solar system that doesn\u2019t have a moon. Also, one \u201Cday\u201D on Mercury
-    is almost 60 days on earth because the planet rotates very slowly."
+    is almost 60 days on earth because the planet rotates very slowly. Press the
+    spacebar key once your ready to play the minigame!"
   textSpeed: 0.1
