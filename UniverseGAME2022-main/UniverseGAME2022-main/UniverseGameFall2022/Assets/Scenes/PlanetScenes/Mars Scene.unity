@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -733,7 +733,8 @@ MonoBehaviour:
     from the sun. Unlike the other inner planets, Mars actually has TWO moons called
     Phobos and Deimos. Mars also has days very close to the same length as Earth.
     It is also the second smallest planet in our solar system, being on half the
-    size of Earth."
+    size of Earth. Press the spacebar key on your keyboard once your ready to play
+    the minigame!"
   textSpeed: 0.1
 --- !u!114 &1718800461
 MonoBehaviour:
@@ -807,7 +808,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -337.5, y: -90}
+  m_AnchoredPosition: {x: -434, y: -90}
   m_SizeDelta: {x: -405, y: 180}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2066185112
