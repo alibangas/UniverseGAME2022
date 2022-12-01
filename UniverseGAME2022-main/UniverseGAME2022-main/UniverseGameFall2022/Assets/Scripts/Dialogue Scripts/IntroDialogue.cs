@@ -61,7 +61,7 @@ public class IntroDialogue : MonoBehaviour
         }
         else
         {
-            gameObject.SetActive(false);
+            gameObject.SetActive(true);
         }
     }
 }

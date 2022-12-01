@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -320,7 +320,8 @@ MonoBehaviour:
   - "Neptune is the furthest planet from the Sun but surprisingly only the second
     coldest behind Uranus. While they aren\u2019t very apparent, Neptune actually
     has some rings of its own. This planet is actually named after the Roman god
-    of the Sea, very fitting for its blue color!"
+    of the Sea, very fitting for its blue color! Press the spacebar key once your
+    ready to play the minigame!"
   textSpeed: 0.03
 --- !u!114 &674498571
 MonoBehaviour:
