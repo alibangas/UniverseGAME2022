@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class UranusQuiz : MonoBehaviour
 {
@@ -62,6 +63,11 @@ public class UranusQuiz : MonoBehaviour
             Answer1.SetActive(true);
             Answer2.SetActive(true);
             Answer3.SetActive(true);
+        }
+
+        else if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("After Uranus Dialogue");
         }
     }
 }

@@ -20,7 +20,7 @@ public class ReadInputMercury : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            SceneManager.LoadScene("Solar System Unity Game");
+            SceneManager.LoadScene("After Mercury Dialogue");
         }
     }
 

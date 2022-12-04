@@ -38,6 +38,11 @@ public class SaturnDialogue : MonoBehaviour
         {
             SceneManager.LoadScene("Solar System Unity Game");
         }
+
+        else if (Input.GetKeyDown(KeyCode.Space))
+        {
+            SceneManager.LoadScene("GameSaturn");
+        }
     }
 
     void StartDialogue()

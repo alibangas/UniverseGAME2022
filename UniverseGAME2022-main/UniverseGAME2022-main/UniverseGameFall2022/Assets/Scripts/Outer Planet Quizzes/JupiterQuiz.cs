@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class JupiterQuiz : MonoBehaviour
 {
@@ -62,6 +63,11 @@ public class JupiterQuiz : MonoBehaviour
             Answer1.SetActive(false);
             Answer2.SetActive(false);
             Answer3.SetActive(false);
+        }
+
+        else if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("After Jupiter Dialogue");
         }
     }
 }

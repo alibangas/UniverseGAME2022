@@ -47,4 +47,40 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameScenes/GameMarsScene.unity
     guid: 4d50810767b3546139d4776f678e7c23
+  - enabled: 1
+    path: Assets/Scenes/PlanetScenes/After Planet Dialogue/After Earth Dialogue.unity
+    guid: dde9a1349cb1b4943835bb23401ba9e1
+  - enabled: 1
+    path: Assets/Scenes/PlanetScenes/After Planet Dialogue/After Jupiter Dialogue.unity
+    guid: 10fc30a89e0a90b41a774e8ffca0d60f
+  - enabled: 1
+    path: Assets/Scenes/PlanetScenes/After Planet Dialogue/After Mars Dialogue.unity
+    guid: 73548325daefbc742a9cb3ba25b27faa
+  - enabled: 1
+    path: Assets/Scenes/PlanetScenes/After Planet Dialogue/After Mercury Dialogue.unity
+    guid: cc27d3c712e2edb44970a09e3e5ce57c
+  - enabled: 1
+    path: Assets/Scenes/PlanetScenes/After Planet Dialogue/After Neptune Dialogue.unity
+    guid: 54dd718988f925247b51e23aec23fd7a
+  - enabled: 1
+    path: Assets/Scenes/PlanetScenes/After Planet Dialogue/After Saturn Dialogue.unity
+    guid: 8f59ab60b0b4dc94b83befe48af2b888
+  - enabled: 1
+    path: Assets/Scenes/PlanetScenes/After Planet Dialogue/After Uranus Dialogue.unity
+    guid: 31ee26bee39fb7c46b7fa59bd13ef26a
+  - enabled: 1
+    path: Assets/Scenes/PlanetScenes/After Planet Dialogue/After Venus Dialogue.unity
+    guid: 14a6f9f77e37cd44bab855cf4536245d
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/GameJupiter.unity
+    guid: 360f06dce2af1ec4fb153d02368dc0ce
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/GameSaturn.unity
+    guid: d6dd5e0d82c9c9149b1660f0d27a52f5
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/GameNeptune.unity
+    guid: 69459bf2f67873d49a9568045e11ccdf
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/GameUranus.unity
+    guid: 59f3f2ac40027324e8d8b0ee29a7ec32
   m_configObjects: {}

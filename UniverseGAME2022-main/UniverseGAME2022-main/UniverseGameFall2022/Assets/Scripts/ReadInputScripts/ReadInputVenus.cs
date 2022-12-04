@@ -20,7 +20,7 @@ public class ReadInputVenus : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            SceneManager.LoadScene("Solar System Unity Game");
+            SceneManager.LoadScene("After Venus Dialogue");
         }
     }
 

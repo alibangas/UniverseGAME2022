@@ -39,6 +39,11 @@ public class JupiterDialogue : MonoBehaviour
         {
             SceneManager.LoadScene("Solar System Unity Game");
         }
+
+        else if (Input.GetKeyDown(KeyCode.Space))
+        {
+            SceneManager.LoadScene("GameJupiter");
+        }
     }
 
     void StartDialogue()

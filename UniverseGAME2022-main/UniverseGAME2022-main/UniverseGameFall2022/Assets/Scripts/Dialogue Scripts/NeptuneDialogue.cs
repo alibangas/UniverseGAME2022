@@ -38,6 +38,11 @@ public class NeptuneDialogue : MonoBehaviour
         {
             SceneManager.LoadScene("Solar System Unity Game");
         }
+
+        else if (Input.GetKeyDown(KeyCode.Space))
+        {
+            SceneManager.LoadScene("GameNeptune");
+        }
     }
 
     void StartDialogue()
