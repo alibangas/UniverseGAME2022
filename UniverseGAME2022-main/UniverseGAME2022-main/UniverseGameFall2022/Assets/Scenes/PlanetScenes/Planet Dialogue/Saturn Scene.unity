@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -393,12 +393,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 187554052}
   lines:
-  - "Saturn is the closest to the sun out of the outer planets and also is the second
-    largest planet within our solar system! It has SEVEN beautiful rings along with
-    83 moons altogether. While the rings around Saturn look solid, they are actually
-    made up entirely of gas particles and rock fragments, so unfortunately you can\u2019t
-    stand on them. Trust me, I learned that the hard way. Press the spacebar key
-    once your ready to play the minigame!"
+  - "Saturn is the second closest to the sun out of the outer planets and also is
+    the second largest planet within our solar system! It has SEVEN beautiful rings
+    along with 83 moons altogether. While the rings around Saturn look solid, they
+    are actually made up entirely of gas particles and rock fragments, so unfortunately
+    you can\u2019t stand on them. Trust me, I learned that the hard way. Press the
+    spacebar key once your ready to play the minigame!"
   textSpeed: 0.03
 --- !u!114 &728869801
 MonoBehaviour:
