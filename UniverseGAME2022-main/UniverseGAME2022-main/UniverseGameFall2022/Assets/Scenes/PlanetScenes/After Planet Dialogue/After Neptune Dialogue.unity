@@ -1164,6 +1164,8 @@ MonoBehaviour:
   lines:
   - How does it feel having been on the furthest planet from the Sun? That concludes
     our visit with Neptune.
+  - Well that concludes our journey! I'd say you are ready to venture the solar system
+    on your own now, but for now let's get you back to Earth. Until next time!
   textSpeed: 0.03
 --- !u!114 &910508630
 MonoBehaviour:
