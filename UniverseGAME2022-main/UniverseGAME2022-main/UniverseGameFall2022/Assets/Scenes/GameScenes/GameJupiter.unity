@@ -595,6 +595,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QuestionBox: {fileID: 1182213700}
+  EuropaDialogue: {fileID: 1401435788}
   Answer1: {fileID: 2146061033}
   Answer2: {fileID: 1643993415}
   Answer3: {fileID: 1353706831}
@@ -792,6 +793,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QuestionBox: {fileID: 0}
+  EuropaDialogue: {fileID: 0}
   Answer1: {fileID: 0}
   Answer2: {fileID: 0}
   Answer3: {fileID: 0}
@@ -1159,7 +1161,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 90
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0

@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 467631900}
   - component: {fileID: 467631899}
   m_Layer: 5
-  m_Name: Emperor Jupiter
+  m_Name: Europa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -180,7 +180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b33198d8cb9f1884eac1c00b527514eb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 408eeabd1c5fbe249b0961a7fad74190, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -317,11 +317,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1857640821}
   lines:
-  - "Brr! It\u2019s freezing here. It looks like we\u2019ve arrived at the coldest
-    planet, Uranus. The beautiful blue color comes from methane gas. Despite not
-    being farthest away from the sun, Uranus is the coldest planet. Some scientists
-    speculate that this is because it was impacted long ago, which released heat
-    from its core. Press the spacebar key once your ready to play the minigame! "
+  - Same as Saturn and Jupiter, I have set up a question based off the planet we
+    just visited. I am going to give you four options in which you will have to pick
+    the correct answer to move on! Press P to start the minigame.
   textSpeed: 0.03
 --- !u!114 &1092287710
 MonoBehaviour:

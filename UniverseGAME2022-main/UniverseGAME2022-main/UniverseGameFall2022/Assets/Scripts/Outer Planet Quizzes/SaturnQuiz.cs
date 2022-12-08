@@ -8,6 +8,7 @@ public class SaturnQuiz : MonoBehaviour
 {
 
     public GameObject QuestionBox;
+    public GameObject EuropaDialogue;
     public GameObject Answer1;
     public GameObject Answer2;
     public GameObject Answer3;
@@ -17,24 +18,28 @@ public class SaturnQuiz : MonoBehaviour
     public void ChoiceOption1()
     {
         QuestionBox.GetComponent<Text>().text = "That is correct!";
+        EuropaDialogue.GetComponent<Text>().text = "Nice job! Press escape to exit the minigame!";
         ChoiceMade = 1;
     }
 
     public void ChoiceOption2()
     {
         QuestionBox.GetComponent<Text>().text = "That is incorrect! Try again.";
+        EuropaDialogue.GetComponent<Text>().text = "Pick the correct answer!";
         ChoiceMade = 2;
     }
 
     public void ChoiceOption3()
     {
         QuestionBox.GetComponent<Text>().text = "That is incorrect! Try again.";
+        EuropaDialogue.GetComponent<Text>().text = "Pick the correct answer!";
         ChoiceMade = 3;
     }
 
     public void ChoiceOption4()
     {
         QuestionBox.GetComponent<Text>().text = "That is incorrect! Try again.";
+        EuropaDialogue.GetComponent<Text>().text = "Pick the correct answer!";
         ChoiceMade = 4;
     }
 

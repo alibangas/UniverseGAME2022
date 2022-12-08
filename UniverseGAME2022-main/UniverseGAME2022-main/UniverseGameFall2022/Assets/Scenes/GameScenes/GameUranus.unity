@@ -741,6 +741,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QuestionBox: {fileID: 1730188808}
+  EuropaDialogue: {fileID: 2111927098}
   Answer1: {fileID: 4823688}
   Answer2: {fileID: 1773704236}
   Answer3: {fileID: 1637311026}
@@ -1809,10 +1810,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 90
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 9
+    m_MinSize: 5
     m_MaxSize: 90
     m_Alignment: 1
     m_AlignByGeometry: 0
