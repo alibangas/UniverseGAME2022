@@ -42,6 +42,11 @@ public class JupiterDialogue : MonoBehaviour
 
         else if (Input.GetKeyDown(KeyCode.Space))
         {
+            SceneManager.LoadScene("Europa Jupiter Scene 1");
+        }
+
+        else if (Input.GetKeyDown(KeyCode.P))
+        {
             SceneManager.LoadScene("GameJupiter");
         }
     }

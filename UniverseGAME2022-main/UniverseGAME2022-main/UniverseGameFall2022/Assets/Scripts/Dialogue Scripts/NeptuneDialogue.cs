@@ -41,6 +41,11 @@ public class NeptuneDialogue : MonoBehaviour
 
         else if (Input.GetKeyDown(KeyCode.Space))
         {
+            SceneManager.LoadScene("Europa Neptune Scene 1");
+        }
+
+        else if (Input.GetKeyDown(KeyCode.P))
+        {
             SceneManager.LoadScene("GameNeptune");
         }
     }

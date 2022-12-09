@@ -73,6 +73,7 @@ public class JupiterQuiz : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.Escape))
         {
             SceneManager.LoadScene("After Jupiter Dialogue");
+            Debug.Log("cheese");
         }
     }
 }

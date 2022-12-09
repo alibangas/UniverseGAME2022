@@ -18,9 +18,9 @@ public class ReadInputEarth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKey(KeyCode.Escape))
         {
-            SceneManager.LoadScene("After Earth Dialogue");
+            SceneManager.LoadScene(14); //After Earth Dialogue = 14
         }
     }
 

@@ -41,6 +41,11 @@ public class SaturnDialogue : MonoBehaviour
 
         else if (Input.GetKeyDown(KeyCode.Space))
         {
+            SceneManager.LoadScene("Europa Saturn Scene 1");
+        }
+
+        else if (Input.GetKeyDown(KeyCode.P))
+        {
             SceneManager.LoadScene("GameSaturn");
         }
     }
